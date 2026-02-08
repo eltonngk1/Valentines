@@ -27,14 +27,14 @@ A simple and fun Valentine’s Day website built using **HTML, CSS, and JavaScri
 ---
 
 ## 📂 Project Structure
-
-Valentines/<br>
- │<br>
-├── index.html # Main HTML file<br>
-├── style.css # Styling and animations<br>
-├── script.js # Button logic & interactions<br>
-└── images/ # Images / media (if any)
-
+   ```bash
+   Valentines/
+   │
+   ├── index.html # Main HTML file
+   ├── style.css # Styling and animations
+   ├── script.js # Button logic & interactions
+   └── images/ # Images / media (if any)
+```
 
 ---
 
