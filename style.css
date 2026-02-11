@@ -14,6 +14,11 @@
     align-items: center;
 }
 
+.div1 .couple-photo,
+.div3 .couple-photo {
+    object-position: top;
+}
+
 .card {
     background: white;
     padding: 45px 40px;
